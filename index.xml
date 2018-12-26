@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FiberMood Inc</title>
+    <link>http://fibermood.com/</link>
+    <description>Recent content on FiberMood Inc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="http://fibermood.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wedding Dress</title>
+      <link>http://fibermood.com/post/wedding-dress/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>http://fibermood.com/post/wedding-dress/</guid>
+      <description>The amazing wedding-dress made of fiber clothes.
+Suitable for wedding, party and show.</description>
+    </item>
+    
+    <item>
+      <title>Falling Rain</title>
+      <link>http://fibermood.com/post/falling-rain/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>http://fibermood.com/post/falling-rain/</guid>
+      <description>Override the default intro and contact backgrounds by putting images in these files:
+img/intro-bg.jpg img/contact-bg.jpg</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>http://fibermood.com/post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>http://fibermood.com/post/third/</guid>
+      <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
+title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://fibermood.com/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://fibermood.com/about/about/</guid>
+      <description>FiberMood powers the products with Fiber cloth.</description>
+    </item>
+    
+  </channel>
+</rss>

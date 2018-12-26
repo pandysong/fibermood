@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on FiberMood Inc</title>
+    <link>http://fibermood.com/about/</link>
+    <description>Recent content in Abouts on FiberMood Inc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://fibermood.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://fibermood.com/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://fibermood.com/about/about/</guid>
+      <description>FiberMood powers the products with Fiber cloth.</description>
+    </item>
+    
+  </channel>
+</rss>
