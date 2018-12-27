@@ -32,13 +32,14 @@ img/intro-bg.jpg img/contact-bg.jpg</description>
     </item>
     
     <item>
-      <title>third</title>
-      <link>https://pandysong.github.io/fibermood/post/third/</link>
+      <title>Fiber Wall</title>
+      <link>https://pandysong.github.io/fibermood/post/fiber-wall/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>https://pandysong.github.io/fibermood/post/third/</guid>
-      <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
-title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
+      <guid>https://pandysong.github.io/fibermood/post/fiber-wall/</guid>
+      <description>Fibers are fabricated into bricks.
+It demostrates amazing light affects.
+Sutible for decoration for buildings.</description>
     </item>
     
   </channel>
